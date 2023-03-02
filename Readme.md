@@ -56,6 +56,10 @@
 I'm definitely more confident now in creating a webpage similar to this one.
 
 ---
+## Live Link of the project
+
+> The link for the project is given below:
+https://calm-homepage.vercel.app/
 
 ## Feedback
 
